@@ -63,6 +63,11 @@ h2 {
   color: #34495e;
 }
 
+h3 {
+  font-size: 1.1em;
+  color: #425257;
+}
+
 p {
   font-size: 1em;
   color: #444;
@@ -91,6 +96,10 @@ a:hover {
 
   h2 {
     font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1em;
   }
 
   li::before {
